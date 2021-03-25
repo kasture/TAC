@@ -15,6 +15,7 @@
     <module>jobs/process/demo/onboardingdemojob_0.1</module>
     <module>jobs/process/demo/test1_0.1</module>
     <module>jobs/process/demo/test1_1.0</module>
+    <module>jobs/process/demo/test1_2.0</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
